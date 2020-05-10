@@ -1,0 +1,14 @@
+#footer_container {
+    bottom: 0;
+    width: 100%;
+}
+
+.navbar-item img {
+
+    max-height: 2.75rem !important;
+
+}
+
+#page_container {
+    height: calc(100vh - 228px);
+}
